@@ -50,7 +50,12 @@ Se trabajo con una base de datos con 3 tablas :
 
     
  ## Imagenes de Resultados:
+ ### Dashboard Exploratorio.
+ ![](https://github.com/ter2016/Proyecto-5-Amazon/blob/main/imgs/EDA_Amazon.jpg)
+ ![](https://github.com/ter2016/Proyecto-5-Amazon/blob/main/imgs/EDA_Amazon_2.jpg)
+
  ### Dashboard general.
+ 
 _En desarrollo_
 
 

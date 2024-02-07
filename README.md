@@ -51,10 +51,8 @@ Se trabajo con una base de datos con 3 tablas :
     
  ## Imagenes de Resultados:
  ### Dashboard general.
-_
- En desarrollo_
+_En desarrollo_
 
 
 ## Archivos y Links de acceso
-_
- En desarrollo_
+_En desarrollo_
